@@ -1,0 +1,7 @@
+Dentro de proyecto esta el codigo general, este se inicia con consumibles
+El sql, es solo el esqueleto, por lo tanto no tendra ningun dato ingresado
+la generación de vales solo es una mestra pequeña de como poder usarla
+La carpeta de "Historial de vales" debera estar en el escritorio
+
+Aunque se generan errores en ciertos puntos, mientras que se use corecramente se podra dar funcionalidad completa
+La base de datos se creo en mysql
